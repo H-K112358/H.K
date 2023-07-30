@@ -13,12 +13,25 @@ Then, we repeat the same process for the entire array;
 - Last iteration;
 0, 4, "5", 6, 10
 SORTED!
+
+
+
+
 For "even numbers," the same process applies;
 
 
 
 
 I gave this algorithm the name "Rabbit Sorting" because it sorts from the first to the last, akin to jumping, and the animal that jumps is the rabbit (a silly name :)) However, this sorting method is faster than ("bubble sort," "insertion sort," and "selection sort") The Rabbit Sorting Algorithm has a time complexity of O(n);
+
+
+
+
+
+
+
+
+
 NB;
 You can find the code in "First Project/P.1.R.S," implemented in the C programming language. If you have any questions or suggestions for modifications, feel free to let me know!;
 THANKS FOR YOU TIME;
