@@ -1,4 +1,4 @@
-# H.K
+# The Rabbit Sorting Algorithm;
 The Rabbit Sorting Algorithm;
 
 It's a new method of sorting similar to the selection sort, but it utilizes both the minimum and maximum values, Let's illustrate with an example array T[5] = {5, 0, 6, 4, 10};
@@ -18,3 +18,4 @@ I gave this algorithm the name "Rabbit Sorting" because it sorts from the first 
 NB;
 You can find the code in "First Project/P.1.R.S," implemented in the C programming language. If you have any questions or suggestions for modifications, feel free to let me know!;
 THANKS FOR YOU TIME;
+BY H.K
