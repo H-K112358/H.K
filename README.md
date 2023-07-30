@@ -34,5 +34,25 @@ I gave this algorithm the name "Rabbit Sorting" because it sorts from the first 
 
 NB;
 You can find the code in "First Project/P.1.R.S," implemented in the C programming language. If you have any questions or suggestions for modifications, feel free to let me know!;
+
+
+
+
+
+
+
+
+
 THANKS FOR YOU TIME;
+
+
+
+
+
+
+
+
+
+
+
 BY H.K
