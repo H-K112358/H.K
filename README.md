@@ -1,4 +1,4 @@
-# The Rabbit Sorting Algorithm;
+# The Rabbit Sorting Algorithm
 The Rabbit Sorting Algorithm;
 
 It's a new method of sorting similar to the selection sort, but it utilizes both the minimum and maximum values, Let's illustrate with an example array T[5] = {5, 0, 6, 4, 10};
